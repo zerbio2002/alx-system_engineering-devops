@@ -8,3 +8,5 @@ Task 2: id -Gn will print all group part of current user.
 
 Task 3: chown betty hello will change owner of the file hello to user betty.
 
+Task 4: touch hello command will create empty file called hello.
+
