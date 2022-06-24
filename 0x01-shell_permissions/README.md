@@ -22,3 +22,5 @@ Task 9: chmod 753 hello set permission to owner to execute, read and write, and 
 
 Task 10: hello file copies mode from olleh file using scrit chmod --reference olleh hello.
 
+Task 11: adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
+
