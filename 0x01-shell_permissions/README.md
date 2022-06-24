@@ -14,3 +14,7 @@ Task 5: chmod u+x hello command will make hello file excutable permission.
 
 Task 6: chmod u+x,g+o,o+x hello script will give execuation permission to current user and group, and read permission to other users.
 
+Task 7: chmod ugo+x hello will give permission to all owner, group and other users.
+
+Task 8: chmod 007 hello will set no permission to all owner, group and other to hello file.
+
