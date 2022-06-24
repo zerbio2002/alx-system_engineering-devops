@@ -12,3 +12,5 @@ Task 4: touch hello command will create empty file called hello.
 
 Task 5: chmod u+x hello command will make hello file excutable permission.
 
+Task 6: chmod u+x,g+o,o+x hello script will give execuation permission to current user and group, and read permission to other users.
+
