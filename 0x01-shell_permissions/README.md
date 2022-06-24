@@ -24,3 +24,5 @@ Task 10: hello file copies mode from olleh file using scrit chmod --reference ol
 
 Task 11: adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
 
+Task 12: mkdir -m 751 my_dir creates a directory with a permission of 751.
+
