@@ -30,3 +30,5 @@ Task 13: chgr school hello script change group owner to hello.
 
 Task 14: Changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 
+Task 15: chown -h vincent:staff _hello will changes the owner and the group owner of _hello to vincent and staff respectively.
+
