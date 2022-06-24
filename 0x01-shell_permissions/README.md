@@ -18,3 +18,5 @@ Task 7: chmod ugo+x hello will give permission to all owner, group and other use
 
 Task 8: chmod 007 hello will set no permission to all owner, group and other to hello file.
 
+Task 9: chmod 753 hello set permission to owner to execute, read and write, and set group to read and execute, others write and execute permissions on hello file.
+
