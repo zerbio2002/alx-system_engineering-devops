@@ -10,3 +10,5 @@ Task 3: chown betty hello will change owner of the file hello to user betty.
 
 Task 4: touch hello command will create empty file called hello.
 
+Task 5: chmod u+x hello command will make hello file excutable permission.
+
