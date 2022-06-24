@@ -34,3 +34,5 @@ Task 15: chown -h vincent:staff _hello will changes the owner and the group owne
 
 Task 16: chown --from=guillaume betty hello, script changes the owner of the file hello to betty only if it is owned by the user guillaume.
 
+Task 17: telnet towel.blinkenlights.nl will play starwar from terminal using telnet programm.
+
