@@ -26,3 +26,5 @@ Task 11: adds execute permission to all subdirectories of the current directory 
 
 Task 12: mkdir -m 751 my_dir creates a directory with a permission of 751.
 
+Task 13: chgr school hello script change group owner to hello.
+
