@@ -28,3 +28,5 @@ Task 12: mkdir -m 751 my_dir creates a directory with a permission of 751.
 
 Task 13: chgr school hello script change group owner to hello.
 
+Task 14: Changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+
