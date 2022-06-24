@@ -20,3 +20,5 @@ Task 8: chmod 007 hello will set no permission to all owner, group and other to 
 
 Task 9: chmod 753 hello set permission to owner to execute, read and write, and set group to read and execute, others write and execute permissions on hello file.
 
+Task 10: hello file copies mode from olleh file using scrit chmod --reference olleh hello.
+
